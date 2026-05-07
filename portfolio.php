@@ -29,9 +29,9 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css">			
-		<link rel="stylesheet" href="assets/css/style.css">			
-		<link rel="stylesheet" href="assets/css/responsive.css">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
+		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -138,6 +138,6 @@
 		<!-- scrolltopcontrol js -->																				
 			<script src="assets/js/scrolltopcontrol.js"></script>																				
 		<!-- scripts js -->
-			<script src="assets/js/scripts.js"></script>		
+			<script src="assets/js/scripts.js?v=2"></script>		
     </body>
 </html>

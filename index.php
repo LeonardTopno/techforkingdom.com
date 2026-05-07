@@ -29,9 +29,9 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css">			
-		<link rel="stylesheet" href="assets/css/style.css">			
-		<link rel="stylesheet" href="assets/css/responsive.css">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
+		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -72,52 +72,69 @@
 		<section class="feature_area">
 			<div class="container">	
 				<div class="row feature_bg">
+					<div class="col-lg-12">
+						<div class="verse_content text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+							<p id="verseText">"Whatever you do, work at it with all your heart, as working for the Lord."</p>
+							<span id="verseReference">Colossians 3:23</span>
+						</div>
+					</div>
+
 					<div class="section-title text-center">		
 						<h2>What we do</h2>
 						<p>We help churches, ministries, schools, hospitals, and Christian organizations build impactful digital platforms through websites, mobile apps, software solutions, and technical training.</p>
-					</div>					
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single_feature">
-							<img src="assets/img/icon/research.png" alt="icon" />
-							<h4>UX Research</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
-						</div>
-					</div><!-- END COL -->				
-					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single_feature">
-							<img src="assets/img/icon/brand.png" alt="icon" />
-							<h4>Brand Identity</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
-						</div>
-					</div><!-- END COL -->				
+					</div>
+
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single_feature">
 							<img src="assets/img/icon/web.png" alt="icon" />
-							<h4>Web Development</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<h4>Website Development</h4>
+							<p>Responsive, secure websites that help ministries, schools, hospitals, and churches clearly share their mission online.</p>
 						</div>
-					</div><!-- END COL -->				
+					</div><!-- END COL -->
+
+					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+						<div class="single_feature">
+							<img src="assets/img/icon/mobile-app.svg" alt="Mobile app development icon" />
+							<h4>Mobile App Development</h4>
+							<p>Custom mobile apps for communication, learning, events, appointments, donations, and community engagement.</p>
+						</div>
+					</div><!-- END COL -->
+
+					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+						<div class="single_feature">
+							<img src="assets/img/icon/custom-software.svg" alt="Custom software development icon" />
+							<h4>Custom Software Development</h4>
+							<p>Purpose-built software to simplify administration, reporting, admissions, outreach, and daily institutional workflows.</p>
+						</div>
+					</div><!-- END COL -->
+
+					
+
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/strategy.png" alt="icon" />
-							<h4>Business Strategy</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/training-workshop.svg" alt="Technical training and workshops icon" />
+							<h4>Technical Training & Workshops</h4>
+							<p>Practical training for staff, students, and ministry teams in digital tools, web basics, AI, and online safety.</p>
 						</div>
-					</div><!-- END COL -->				
+					</div><!-- END COL -->
+
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/design.png" alt="icon" />
-							<h4>Web Design</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/ai-consulting.svg" alt="IT consulting and AI solutions icon" />
+							<h4>IT Consulting & AI Solutions</h4>
+							<p>Technology guidance and AI-powered solutions to help your organization work smarter, save time, and serve better.</p>
 						</div>
-					</div><!-- END COL -->		
+					</div><!-- END COL -->
+
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/photo.png" alt="icon" />
-							<h4>Photography</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/cloud-hosting.svg" alt="Cloud and hosting solutions icon" />
+							<h4>Cloud and Hosting Solutions</h4>
+							<p>Reliable hosting, cloud setup, backups, email, and maintenance support to keep your digital services running smoothly.</p>
 						</div>
-					</div><!-- END COL -->				
+					</div><!-- END COL -->
+					
+					
 				</div><!-- END ROW -->				
 			</div><!--- END CONTAINER -->
 		</section>
@@ -174,7 +191,9 @@
 					<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_why_choose">
 							<h2>We create <br /> amazing digital <br /> products</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It is a long established fact that a reader. It was popularised in the with the release.</p>
+							<p>TechForKingdom is a Christian technology initiative dedicated to serving ministries, churches, educational institutions, hospitals, NGOs, and mission organizations through modern digital solutions. </p>
+                            <p> We believe technology can be a powerful tool for outreach, administration, education, discipleship, communication, and social impact.</p>
+                            <p> Our mission is to bridge the gap between faith and technology by providing professional, affordable, and purpose-driven technology services to Kingdom-focused organizations.</p>
 							<a class="btn_one" href="about.php">Learn More</a>
 						</div>							
 					</div><!--- END COL -->	
@@ -528,6 +547,6 @@
 		<!-- scrolltopcontrol js -->																				
 			<script src="assets/js/scrolltopcontrol.js"></script>																				
 		<!-- scripts js -->
-			<script src="assets/js/scripts.js"></script>		
+			<script src="assets/js/scripts.js?v=2"></script>		
     </body>
 </html>

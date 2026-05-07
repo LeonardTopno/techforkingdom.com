@@ -81,6 +81,40 @@ Version      : 1.0
 		  itemsDesktopSmall : [979,3]
 		});
 		/*END PARTNER LOGO*/	
+
+		/*START VERSE ROTATOR*/
+		var verses = [
+			{
+				text: '"Whatever you do, work at it with all your heart, as working for the Lord."',
+				reference: 'Colossians 3:23'
+			},
+			{
+				text: '"Commit to the Lord whatever you do, and He will establish your plans."',
+				reference: 'Proverbs 16:3'
+			},
+			{
+				text: '"Let the favor of the Lord our God be upon us; establish the work of our hands."',
+				reference: 'Psalm 90:17'
+			}
+		];
+		var verseIndex = 0;
+		var $verseBox = $('.verse_content');
+		var $verseText = $('#verseText');
+		var $verseReference = $('#verseReference');
+
+		if ($verseBox.length && $verseText.length && $verseReference.length) {
+			setInterval(function () {
+				verseIndex = (verseIndex + 1) % verses.length;
+				$verseBox.addClass('is-changing');
+
+				setTimeout(function () {
+					$verseText.text(verses[verseIndex].text);
+					$verseReference.text(verses[verseIndex].reference);
+					$verseBox.removeClass('is-changing');
+				}, 600);
+			}, 7000);
+		}
+		/*END VERSE ROTATOR*/
 		
 	}); 
 
@@ -107,4 +141,3 @@ Version      : 1.0
 
 
   
-

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="IT consulting and AI solutions">
+  <circle cx="36" cy="36" r="24" fill="#eaf6ff"/>
+  <rect x="23" y="22" width="26" height="26" rx="6" fill="#0f315f"/>
+  <circle cx="31" cy="34" r="3" fill="#ffaa17"/>
+  <circle cx="41" cy="34" r="3" fill="#ffaa17"/>
+  <path d="M31 42h10" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 16v6M36 48v8M16 36h7M49 36h7M21 21l5 5M51 21l-5 5M21 51l5-5M51 51l-5-5" stroke="#41c7b9" stroke-width="3" stroke-linecap="round"/>
+</svg>

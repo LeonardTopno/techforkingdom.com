@@ -7,7 +7,7 @@
 		  </div>
 		  <div class="site-mobile-menu-body"></div>
 		</div>
-	   
+
 		<header class="site-navbar js-sticky-header site-navbar-target" role="banner">
 		  <div class="container">
 			<div class="row align-items-center">       
@@ -70,6 +70,10 @@
 			   <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;">
 			   <a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a>
 			   </div>
+			</div>
+			<div class="nav-contact-actions">
+			  <a href="tel:+919663920875"><i class="fa fa-phone"></i> +91 96639 20875</a>
+			  <a href="https://wa.me/919663920875" target="_blank"><i class="fa fa-whatsapp"></i> +91 96639 20875</a>
 			</div>
 		  </div>
 		</header>

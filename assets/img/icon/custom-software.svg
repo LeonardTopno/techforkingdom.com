@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Custom software development">
+  <rect x="8" y="14" width="56" height="42" rx="5" fill="#eaf6ff"/>
+  <rect x="8" y="14" width="56" height="10" rx="5" fill="#0f315f"/>
+  <circle cx="15" cy="19" r="1.8" fill="#ff6b6b"/>
+  <circle cx="21" cy="19" r="1.8" fill="#ffaa17"/>
+  <circle cx="27" cy="19" r="1.8" fill="#41c7b9"/>
+  <path d="M27 37l-8 6 8 6M45 37l8 6-8 6" fill="none" stroke="#ffaa17" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 32l-6 22" fill="none" stroke="#0f315f" stroke-width="4" stroke-linecap="round"/>
+</svg>

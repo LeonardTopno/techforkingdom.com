@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Mobile app development">
+  <rect x="22" y="8" width="28" height="56" rx="6" fill="#0f315f"/>
+  <rect x="25" y="14" width="22" height="42" rx="2" fill="#eaf6ff"/>
+  <circle cx="36" cy="60" r="2" fill="#ffaa17"/>
+  <rect x="29" y="20" width="14" height="5" rx="1" fill="#ffaa17"/>
+  <rect x="29" y="30" width="7" height="7" rx="1.5" fill="#41c7b9"/>
+  <rect x="38" y="30" width="7" height="7" rx="1.5" fill="#ff6b6b"/>
+  <rect x="29" y="40" width="16" height="4" rx="1" fill="#6aa9ff"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Cloud and hosting solutions">
+  <path d="M25 48h26a12 12 0 0 0 1-24 17 17 0 0 0-32-4 14 14 0 0 0 5 28z" fill="#eaf6ff" stroke="#0f315f" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="22" y="38" width="28" height="14" rx="3" fill="#ffaa17"/>
+  <path d="M28 45h9M43 45h1" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 52v8M27 60h18" stroke="#41c7b9" stroke-width="4" stroke-linecap="round"/>
+</svg>
