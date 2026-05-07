@@ -6,7 +6,7 @@
 						<div class="footer_logo">
 							<img src="assets/img/logo.svg?v=2" alt="TechForKingdom" />
 							<p>TechForKingdom equips Christian missions, churches, schools, hospitals, NGOs, and ministries with websites, apps, software, training, and cloud support for greater Kingdom impact.</p>
-							<p class="footer_verse">"Commit to the Lord whatever you do, and He will establish your plans."<br />Proverbs 16:3</p>
+							<p class="footer_verse">"Whatever you do, work at it with all your heart, as working for the Lord."<br />Colossians 3:23</p>
 						</div>
 					</div><!--- END COL -->						
 					<div class="col-lg-3 col-sm-6 col-xs-12">
