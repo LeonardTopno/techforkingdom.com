@@ -6,11 +6,25 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="Meet the TechForKingdom team serving Christian missions, churches, schools, hospitals, NGOs, and ministries through websites, apps, software, training, and cloud solutions.">
+		<meta name="keywords" content="TechForKingdom team, Christian technology team, ministry technology experts, church website team, mission software developers">
+		<meta name="author" content="TechForKingdom">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#0f315f">
+		<link rel="canonical" href="https://techforkingdom.com/team.php">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://techforkingdom.com/team.php">
+		<meta property="og:title" content="Team Members | TechForKingdom">
+		<meta property="og:description" content="Meet the mission-focused technology team behind TechForKingdom.">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:site_name" content="TechForKingdom">
+		<meta property="og:locale" content="en_IN">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Team Members | TechForKingdom">
+		<meta name="twitter:description" content="A technology team serving Christian missions and institutions.">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">		
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>Team Members | TechForKingdom</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -58,7 +72,7 @@
 				<div class="row">
 				  <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
 					<div class="section-top-title">
-						<h1>Team Member</h1>		
+						<h1>Team Members</h1>		
 					</div>
 				  </div><!--- END COL -->				  
 				</div><!--- END ROW -->
@@ -70,16 +84,17 @@
 		<section id="team" class="team_area section-padding">
 			<div class="container">								
 				<div class="section-title text-center">
-					<h2>Brilliant team</h2>
-					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					<h2>People behind the mission</h2>
+					<p>TechForKingdom brings together technology, ministry understanding, and a heart to serve Christian organizations with practical digital solutions.</p>
 				</div>	
 				<div class="row text-center">
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
 								<img src="assets/img/team/1.jpg" class="img-fluid" alt="" />
-								<h3>Gary Hunt</h3>
-								<p>Marketer</p>
+								<h3>Leonard Topno</h3>
+								<p>Founder and CEO <br/>
+								B.Tech IIT Guwahati</p>
 							</div>	
 							<ul class="social">
 								<li><a href="#" class="ti-facebook facebook"></a></li>
@@ -92,8 +107,10 @@
 						<div class="our-team">
 							<div class="single-team">
 								<img src="assets/img/team/2.jpg" class="img-fluid" alt="" />
-								<h3>Ayoub Fennouni</h3>
-								<p>Manager</p>
+								<h3>Amit V. Kandulna</h3>
+								<p>Head of Web Application development <br/>
+								 MCA, SHUATS, Prayagraj
+								</p>
 							</div>	
 							<ul class="social">
 								<li><a href="#" class="ti-facebook facebook"></a></li>
@@ -106,8 +123,10 @@
 						<div class="our-team">
 							<div class="single-team">
 								<img src="assets/img/team/3.jpg" class="img-fluid" alt="" />
-								<h3>Mark Linomit</h3>
-								<p>Python Developer</p>
+								<h3>Oswin Topno</h3>
+								<p>Head of Mobile Application development <br/>
+								  Kristu Jayanti University, Bengaluru 
+								</p>
 							</div>	
 							<ul class="social">
 								<li><a href="#" class="ti-facebook facebook"></a></li>
@@ -120,8 +139,10 @@
 						<div class="our-team">
 							<div class="single-team">
 								<img src="assets/img/team/4.jpg" class="img-fluid" alt="" />
-								<h3>Thompson Luis</h3>
-								<p>Developer</p>
+								<h3>Amil D. Dahanga</h3>
+								<p>Sales and Business Development <br/>
+								 MBA, XISS Ranchi, Jharkhand
+								</p>
 							</div>	
 							<ul class="social">
 								<li><a href="#" class="ti-facebook facebook"></a></li>
@@ -134,8 +155,10 @@
 						<div class="our-team">
 							<div class="single-team">
 								<img src="assets/img/team/5.jpg" class="img-fluid" alt="" />
-								<h3>Gary Hunt</h3>
-								<p>Marketer</p>
+								<h3>Anna T.</h3>
+								<p>Head of Recruitment <br/>
+								 Mount Carmel, Bengaluru, 
+								</p>
 							</div>	
 							<ul class="social">
 								<li><a href="#" class="ti-facebook facebook"></a></li>
@@ -144,48 +167,7 @@
 							</ul>						
 						</div><!--- END OUR TEAM -->	
 					</div><!--- END COL -->	
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-						<div class="our-team">
-							<div class="single-team">
-								<img src="assets/img/team/6.jpg" class="img-fluid" alt="" />
-								<h3>Ayoub Fennouni</h3>
-								<p>Manager</p>
-							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-						<div class="our-team">
-							<div class="single-team">
-								<img src="assets/img/team/7.jpg" class="img-fluid" alt="" />
-								<h3>Mark Linomit</h3>
-								<p>Python Developer</p>
-							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-						<div class="our-team">
-							<div class="single-team">
-								<img src="assets/img/team/8.jpg" class="img-fluid" alt="" />
-								<h3>Thompson Luis</h3>
-								<p>Developer</p>
-							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
-						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	  
+					  
 				</div><!--- END ROW -->			
 			</div><!--- END CONTAINER -->
 		</section>
@@ -204,8 +186,8 @@
 							</div><!-- END COL  -->	
 							<div class="col-lg-8 col-sm-6 col-xs-12">
 								<div class="hire_content">
-									<h2>Want to work with us?</h2>
-									<p>Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet consectetur elit.</p>
+									<h2>Want to work with our team?</h2>
+									<p>Tell us about your ministry, institution, or product idea. We would be glad to help you plan the next step.</p>
 									<a class="btn_one" href="contact.php">Contact us</a>
 								</div>
 							</div><!-- END COL  -->		

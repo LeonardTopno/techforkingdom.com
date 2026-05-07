@@ -17,14 +17,14 @@
 			  <div class="col-12 col-md-9 d-none d-xl-block">
 				<nav class="site-navigation position-relative text-right" role="navigation">
 				  <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-				  	<li class="has-children">
-					  <a href="index.php" class="nav-link">Home</a>
+				  	<li><a href="index.php" class="nav-link">Home</a></li>	
+					<li class="has-children">
+					  <a href="about.php" class="nav-link">About</a>
 					  <ul class="dropdown">
-						<li><a href="index_two.php" class="nav-link">Home Two</a></li>
-						<li><a href="index_three.php" class="nav-link">Home Three</a></li>
+						<li><a href="about.php" class="nav-link">About Us</a></li>
+						<li><a href="team.php" class="nav-link">Team Members</a></li>
 					  </ul>
-					</li>	
-					<li><a class="nav-link" href="about.php">About</a></li>
+					</li>
 					<li class="has-children">
 					  <a href="service.php" class="nav-link">Services</a>
 					  <ul class="dropdown">
@@ -36,33 +36,7 @@
 						<li><a href="cloud-hosting-solutions.php" class="nav-link">Cloud and Hosting Solutions</a></li>
 					  </ul>
 					</li>					 
-			         <li><a class="nav-link" href="products.php">Products</a></li>									
-					<li class="has-children">
-					  <a href="portfolio.php" class="nav-link">Portfolio</a>
-					  <ul class="dropdown">
-						<li><a href="portfolio_gallery.php" class="nav-link">Portfolio Gallery</a></li>
-						<li><a href="portfolio.php" class="nav-link">Portfolio Project</a></li>
-						<li><a href="single_project.php" class="nav-link">Single Project</a></li>
-					  </ul>
-					</li>	
-					<li class="has-children">
-					  <a href="#" class="nav-link">Pages</a>
-					  <ul class="dropdown">
-						<li><a href="about.php" class="nav-link">About</a></li>
-						<li><a href="faq.php" class="nav-link">Faq Page</a></li>
-						<li><a href="404.php" class="nav-link">404 Page</a></li>
-						<li><a href="team.php" class="nav-link">Team Member</a></li>
-						<li><a href="pricing.php" class="nav-link">Pricing</a></li>
-					  </ul>
-					</li>					
-					<li class="has-children">
-					  <a href="blog.php" class="nav-link">Blog</a>
-					  <ul class="dropdown">
-						<li><a href="blog.php" class="nav-link">Blog No Sidebar</a></li>
-						<li><a href="blog_sidebar.php" class="nav-link">Blog With Sidebar</a></li>
-						<li><a href="blog_single.php" class="nav-link">Single Blog</a></li>
-					  </ul>
-					</li>				
+			         <li><a class="nav-link" href="products.php">Products</a></li>												
 			         <li><a class="nav-link" href="contact.php">Contact</a></li>					
 				  </ul>
 				</nav>
