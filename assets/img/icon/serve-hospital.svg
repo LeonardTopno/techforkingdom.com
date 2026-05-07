@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Hospitals">
+  <rect x="14" y="14" width="44" height="44" rx="5" fill="#eaf6ff" stroke="#0f315f" stroke-width="4"/>
+  <path d="M36 24v24M24 36h24" stroke="#ff6b6b" stroke-width="7" stroke-linecap="round"/>
+  <path d="M22 58h28" stroke="#ffaa17" stroke-width="4" stroke-linecap="round"/>
+</svg>

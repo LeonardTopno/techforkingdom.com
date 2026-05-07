@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Colleges and seminaries">
+  <rect x="13" y="16" width="46" height="40" rx="4" fill="#eaf6ff" stroke="#0f315f" stroke-width="4"/>
+  <path d="M24 24h24M24 32h24M24 40h14" stroke="#0f315f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M47 39v13M41 46h12" stroke="#ffaa17" stroke-width="4" stroke-linecap="round"/>
+  <path d="M18 58h36" stroke="#41c7b9" stroke-width="4" stroke-linecap="round"/>
+</svg>

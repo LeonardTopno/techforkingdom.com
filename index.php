@@ -6,11 +6,25 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="TechForKingdom provides websites, mobile apps, custom software, technical training, AI consulting, and cloud hosting for Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries.">
+		<meta name="keywords" content="TechForKingdom, Christian technology services, church website development, school management software, hospital management software, ministry app development, Christian mission technology, technical training, AI consulting, cloud hosting for ministries">
+		<meta name="author" content="TechForKingdom">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#0f315f">
+		<link rel="canonical" href="https://techforkingdom.com/">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://techforkingdom.com/">
+		<meta property="og:title" content="TechForKingdom | Technology Solutions for Christian Missions">
+		<meta property="og:description" content="Websites, apps, software, training, AI consulting, and cloud solutions for Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries.">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:site_name" content="TechForKingdom">
+		<meta property="og:locale" content="en_IN">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="TechForKingdom | Technology Solutions for Christian Missions">
+		<meta name="twitter:description" content="Purpose-driven websites, apps, software, training, and cloud support for Kingdom-focused organizations.">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>TechForKingdom | Technology Solutions for Christian Missions</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -30,7 +44,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/style.css?v=10">			
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -85,53 +99,53 @@
 					</div>
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-						<div class="single_feature">
-							<img src="assets/img/icon/web.png" alt="icon" />
+						<a class="service-card-link" href="website-development.php"><div class="single_feature">
+							<img src="assets/img/icon/web.png" alt="Website development icon" />
 							<h4>Website Development</h4>
 							<p>Responsive, secure websites that help ministries, schools, hospitals, and churches clearly share their mission online.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single_feature">
+						<a class="service-card-link" href="mobile-app-development.php"><div class="single_feature">
 							<img src="assets/img/icon/mobile-app.svg" alt="Mobile app development icon" />
 							<h4>Mobile App Development</h4>
 							<p>Custom mobile apps for communication, learning, events, appointments, donations, and community engagement.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single_feature">
+						<a class="service-card-link" href="custom-software-development.php"><div class="single_feature">
 							<img src="assets/img/icon/custom-software.svg" alt="Custom software development icon" />
 							<h4>Custom Software Development</h4>
 							<p>Purpose-built software to simplify administration, reporting, admissions, outreach, and daily institutional workflows.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 
 					
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-						<div class="single_feature">
+						<a class="service-card-link" href="technical-training-workshops.php"><div class="single_feature">
 							<img src="assets/img/icon/training-workshop.svg" alt="Technical training and workshops icon" />
 							<h4>Technical Training & Workshops</h4>
 							<p>Practical training for staff, students, and ministry teams in digital tools, web basics, AI, and online safety.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-						<div class="single_feature">
+						<a class="service-card-link" href="it-consulting-ai-solutions.php"><div class="single_feature">
 							<img src="assets/img/icon/ai-consulting.svg" alt="IT consulting and AI solutions icon" />
 							<h4>IT Consulting & AI Solutions</h4>
 							<p>Technology guidance and AI-powered solutions to help your organization work smarter, save time, and serve better.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
-						<div class="single_feature">
+						<a class="service-card-link" href="cloud-hosting-solutions.php"><div class="single_feature">
 							<img src="assets/img/icon/cloud-hosting.svg" alt="Cloud and hosting solutions icon" />
 							<h4>Cloud and Hosting Solutions</h4>
 							<p>Reliable hosting, cloud setup, backups, email, and maintenance support to keep your digital services running smoothly.</p>
-						</div>
+						</div></a>
 					</div><!-- END COL -->
 					
 					
@@ -190,7 +204,7 @@
 				<div class="row">
 					<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_why_choose">
-							<h2>We create <br /> amazing digital <br /> products</h2>
+							<h2>Your Faith-driven <br /> technology partner <br /> </h2>
 							<p>TechForKingdom is a Christian technology initiative dedicated to serving ministries, churches, educational institutions, hospitals, NGOs, and mission organizations through modern digital solutions. </p>
                             <p> We believe technology can be a powerful tool for outreach, administration, education, discipleship, communication, and social impact.</p>
                             <p> Our mission is to bridge the gap between faith and technology by providing professional, affordable, and purpose-driven technology services to Kingdom-focused organizations.</p>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Conferences and events">
+  <rect x="14" y="18" width="44" height="40" rx="5" fill="#eaf6ff" stroke="#0f315f" stroke-width="4"/>
+  <path d="M24 12v12M48 12v12M15 29h42" stroke="#ffaa17" stroke-width="4" stroke-linecap="round"/>
+  <rect x="23" y="37" width="9" height="7" rx="1.5" fill="#41c7b9"/>
+  <rect x="40" y="37" width="9" height="7" rx="1.5" fill="#0f315f"/>
+  <path d="M24 51h24" stroke="#0f315f" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Youth ministries">
+  <circle cx="27" cy="25" r="8" fill="#ffaa17"/>
+  <circle cx="45" cy="25" r="8" fill="#41c7b9"/>
+  <path d="M14 56c2-12 10-19 21-19s19 7 23 19" fill="#eaf6ff" stroke="#0f315f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 45l7 7 9-13" fill="none" stroke="#ffaa17" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

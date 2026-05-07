@@ -6,11 +6,25 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="TechForKingdom provides websites, mobile apps, software, training, consulting, and hosting for Christian missions and institutions.">
+		<meta name="keywords" content="About TechForKingdom, Christian technology initiative, faith and technology, Christian missions technology, church websites, school software, ministry apps, technical training">
+		<meta name="author" content="TechForKingdom">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#0f315f">
+		<link rel="canonical" href="https://techforkingdom.com/about.php">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://techforkingdom.com/about.php">
+		<meta property="og:title" content="About TechForKingdom">
+		<meta property="og:description" content="A Christian technology initiative serving ministries, churches, schools, hospitals, NGOs, and mission organizations.">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:site_name" content="TechForKingdom">
+		<meta property="og:locale" content="en_IN">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="About TechForKingdom">
+		<meta name="twitter:description" content="Technology that serves the Kingdom through websites, apps, software, training, and cloud support.">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">		
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>About TechForKingdom</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -30,7 +44,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/style.css?v=10">			
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -72,14 +86,39 @@
 				<div class="row text-center">					
 					<div class="offset-lg-1 col-lg-10 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_about_content">
-							<h2>Prebuilt websites are designed <br /> to save you time.</h2>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+							<h2>Technology that serves <br /> the Kingdom.</h2>
+							<ul class="about_intro_points">
+								<li>TechForKingdom is a Christian technology initiative dedicated to serving ministries, churches, educational institutions, hospitals, NGOs, and mission organizations through modern digital solutions.</li>
+								<li>We believe technology can be a powerful tool for outreach, administration, education, discipleship, communication, and social impact.</li>
+								<li>Our mission is to bridge the gap between faith and technology by providing professional, affordable, and purpose-driven technology services to Kingdom-focused organizations.</li>
+							</ul>
 						</div>
 					</div><!-- END COL -->					
 				</div><!-- END ROW -->				
 			</div><!--- END CONTAINER -->
 		</section>
 		<!-- END ABOUT PAGE -->
+
+		<!-- START VISION MISSION -->
+		<section class="vision_mission_area section-padding">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+						<div class="vision_mission_box">
+							<h3>Vision Statement</h3>
+							<p>To empower Christian organizations globally through technology that advances the Kingdom of God.</p>
+						</div>
+					</div>
+					<div class="col-lg-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+						<div class="vision_mission_box">
+							<h3>Mission Statement</h3>
+							<p>To deliver high-quality digital solutions that help ministries and institutions serve people more effectively, efficiently, and impactfully.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- END VISION MISSION -->
 		
 		<!-- FEATURES -->
 		<section class="feature_area section-padding">
@@ -87,50 +126,98 @@
 				<div class="row text-center">					
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/research.png" alt="icon" />
-							<h4>UX Research</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/strategy.png" alt="icon" />
+							<h4>Mission First</h4>
+							<p>We begin by understanding your calling, audience, and ministry goals before recommending a technical solution.</p>
 						</div>
 					</div><!-- END COL -->				
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/brand.png" alt="icon" />
-							<h4>Brand Identity</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/web.png" alt="Digital excellence icon" />
+							<h4>Digital Excellence</h4>
+							<p>We create websites, apps, systems, and cloud solutions that are clean, reliable, secure, and easy to use.</p>
 						</div>
 					</div><!-- END COL -->				
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/web.png" alt="icon" />
-							<h4>Web Development</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/training-workshop.svg" alt="icon" />
+							<h4>Training & Equipping</h4>
+							<p>We do not only build tools. We train staff, students, and ministry teams to use technology confidently.</p>
 						</div>
 					</div><!-- END COL -->				
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/strategy.png" alt="icon" />
-							<h4>Business Strategy</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/ai-consulting.svg" alt="icon" />
+							<h4>Wise Innovation</h4>
+							<p>We help Christian organizations adopt AI and modern digital tools responsibly, practically, and affordably.</p>
 						</div>
 					</div><!-- END COL -->				
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/design.png" alt="icon" />
-							<h4>Web Design</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/custom-software.svg" alt="icon" />
+							<h4>Practical Systems</h4>
+							<p>We design software around real institutional needs such as admissions, communication, reporting, and outreach.</p>
 						</div>
 					</div><!-- END COL -->		
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
 						<div class="single_feature">
-							<img src="assets/img/icon/photo.png" alt="icon" />
-							<h4>Photography</h4>
-							<p>Sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur elit.</p>
+							<img src="assets/img/icon/cloud-hosting.svg" alt="icon" />
+							<h4>Long-term Support</h4>
+							<p>We provide hosting, maintenance, backups, updates, and guidance so your team can focus on ministry.</p>
 						</div>
 					</div><!-- END COL -->				
 				</div><!-- END ROW -->				
 			</div><!--- END CONTAINER -->
 		</section>
 		<!-- END FEATURES -->
+
+		<!-- START WHY CHOOSE US -->
+		<section class="why_choose_us_area section-padding">
+			<div class="container">
+				<div class="section-title text-center">
+					<h2>Why Choose Us</h2>
+					<p>Why TechForKingdom?</p>
+				</div>
+				<div class="row">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+						<div class="why_choose_card">
+							<i class="fa fa-heart"></i>
+							<h3>Faith-Driven Purpose</h3>
+							<p>We understand the values and mission of Christian organizations.</p>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+						<div class="why_choose_card">
+							<i class="fa fa-inr"></i>
+							<h3>Affordable & Transparent</h3>
+							<p>Cost-effective solutions with honest communication.</p>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+						<div class="why_choose_card">
+							<i class="fa fa-code"></i>
+							<h3>Technology Expertise</h3>
+							<p>Professional experience in web, mobile, cloud, and software development.</p>
+						</div>
+					</div>
+					<div class="col-lg-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
+						<div class="why_choose_card">
+							<i class="fa fa-handshake-o"></i>
+							<h3>Long-Term Partnership</h3>
+							<p>We believe in building relationships, not just projects.</p>
+						</div>
+					</div>
+					<div class="col-lg-6 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+						<div class="why_choose_card">
+							<i class="fa fa-cogs"></i>
+							<h3>Customized Solutions</h3>
+							<p>Every organization is unique, so are our solutions.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- END WHY CHOOSE US -->
 		
 		<!-- START COUNTER -->
 		<section data-stellar-background-ratio="0.3" class="counter_feature section-padding">
@@ -139,36 +226,37 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="single-project">
 							<img src="assets/img/icon/counter-1.png" alt="icon" />
-							<h2 class="counter-num">32652</h2>
-							<h4>Happy Customers</h4>
+							<h2 class="counter-num">6</h2>
+							<h4>Core Services</h4>
 						</div>							
 					</div>
 					<div class="col-lg-3 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="single-project">
 							<img src="assets/img/icon/counter-2.png" alt="icon" />
-							<h2 class="counter-num">21821</h2>
-							<h4>Project Done</h4>
+							<h2 class="counter-num">2</h2>
+							<h4>India Locations</h4>
 						</div>
 					</div><!-- END COL -->
 					<div class="col-lg-3 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="single-project">
 							<img src="assets/img/icon/counter-3.png" alt="icon" />
-							<h2 class="counter-num">5660</h2>
-							<h4>In Business</h4>
+							<h2 class="counter-num">1</h2>
+							<h4>Shared Mission</h4>
 						</div>
 					</div><!-- END COL -->
 					<div class="col-lg-3 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="single-project single-project-mrnone">
 							<img src="assets/img/icon/counter-4.png" alt="icon" />
-							<h2 class="counter-num">11859</h2>
-							<h4>Support Cases</h4>
+							<h2 class="counter-num">100</h2>
+							<h4>Percent Service Focus</h4>
 						</div>					
 					</div><!-- END COL -->
 				</div><!--- END ROW -->
 				<div class="row text-center">						
 					<div class="col-lg-8 offset-lg-2 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-						<div class="video_btn" style="background-image: url(assets/img/bg/video-bg.jpg);  background-size:cover; background-position: center center;">
-							<a class="video-play" href="https://www.youtube.com/watch?v=alswD2tCc_Q"><i class="ti-video-clapper"></i></a>
+						<div class="single_about_content">
+							<h2>Serving missions through practical technology.</h2>
+							<p>Our work is rooted in the belief that technology can support stewardship, communication, care, discipleship, education, and outreach. Whether your need is a website, app, custom system, training workshop, or hosting support, our goal is to make technology useful for the people you serve.</p>
 						</div>	
 					</div>						
 				</div><!--- END ROW -->				
@@ -180,66 +268,91 @@
 		<section id="team" class="team_area section-padding">
 			<div class="container">								
 				<div class="section-title text-center">
-					<h2>Brilliant team</h2>
-					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					<h2>Who we serve</h2>
+					<p>Industries and organizations we serve through websites, apps, software, training, cloud, and digital support.</p>
 				</div>	
 				<div class="row text-center">
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/1.jpg" class="img-fluid" alt="" />
-								<h3>Gary Hunt</h3>
-								<p>Marketer</p>
+								<img src="assets/img/icon/serve-church.svg" class="img-fluid" alt="Churches" />
+								<h3>Churches</h3>
+								<p>Websites, member communication, sermons, events, giving, prayer requests, and church records.</p>
 							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
 						</div><!--- END OUR TEAM -->	
 					</div><!--- END COL -->	
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/2.jpg" class="img-fluid" alt="" />
-								<h3>Ayoub Fennouni</h3>
-								<p>Manager</p>
+								<img src="assets/img/icon/serve-mission.svg" class="img-fluid" alt="Mission organizations" />
+								<h3>Mission Organizations</h3>
+								<p>Outreach tracking, donor management, project reports, newsletters, and ministry workflows.</p>
 							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
 						</div><!--- END OUR TEAM -->	
 					</div><!--- END COL -->	
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/3.jpg" class="img-fluid" alt="" />
-								<h3>Mark Linomit</h3>
-								<p>Python Developer</p>
+								<img src="assets/img/icon/serve-school.svg" class="img-fluid" alt="Christian schools" />
+								<h3>Christian Schools</h3>
+								<p>Admission forms, student records, parent communication, learning tools, and staff training.</p>
 							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
 						</div><!--- END OUR TEAM -->	
 					</div><!--- END COL -->
-					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/4.jpg" class="img-fluid" alt="" />
-								<h3>Thompson Luis</h3>
-								<p>Developer</p>
+								<img src="assets/img/icon/serve-seminary.svg" class="img-fluid" alt="Colleges and seminaries" />
+								<h3>Colleges & Seminaries</h3>
+								<p>Student portals, department pages, course resources, applications, and administration tools.</p>
 							</div>	
-							<ul class="social">
-								<li><a href="#" class="ti-facebook facebook"></a></li>
-								<li><a href="#" class="ti-twitter twitter"></a></li>
-								<li><a href="#" class="ti-google google"></a></li>
-							</ul>						
 						</div><!--- END OUR TEAM -->	
-					</div><!--- END COL -->	  
+					</div><!--- END COL -->
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
+						<div class="our-team">
+							<div class="single-team">
+								<img src="assets/img/icon/serve-hospital.svg" class="img-fluid" alt="Hospitals" />
+								<h3>Hospitals</h3>
+								<p>Patient information, appointment enquiries, departments, billing support, and communication tools.</p>
+							</div>	
+						</div><!--- END OUR TEAM -->	
+					</div><!--- END COL -->
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
+						<div class="our-team">
+							<div class="single-team">
+								<img src="assets/img/icon/serve-ngo.svg" class="img-fluid" alt="NGOs" />
+								<h3>NGOs</h3>
+								<p>Donation systems, program tracking, impact reporting, websites, and team collaboration tools.</p>
+							</div>	
+						</div><!--- END OUR TEAM -->	
+					</div><!--- END COL -->
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" data-wow-offset="0">
+						<div class="our-team">
+							<div class="single-team">
+								<img src="assets/img/icon/serve-youth.svg" class="img-fluid" alt="Youth ministries" />
+								<h3>Youth Ministries</h3>
+								<p>Event registration, discipleship resources, communication apps, volunteer coordination, and media support.</p>
+							</div>	
+						</div><!--- END OUR TEAM -->	
+					</div><!--- END COL -->
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s" data-wow-offset="0">
+						<div class="our-team">
+							<div class="single-team">
+								<img src="assets/img/icon/serve-conference.svg" class="img-fluid" alt="Conferences and events" />
+								<h3>Conferences & Events</h3>
+								<p>Conference websites, speaker pages, registration, payments, schedules, and attendee communication.</p>
+							</div>	
+						</div><!--- END OUR TEAM -->	
+					</div><!--- END COL -->
+					<div class="col-lg-4 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s" data-wow-offset="0">
+						<div class="our-team">
+							<div class="single-team">
+								<img src="assets/img/icon/serve-startup.svg" class="img-fluid" alt="Christian startups" />
+								<h3>Christian Startups</h3>
+								<p>MVP websites, apps, product strategy, cloud setup, branding support, and launch-ready systems.</p>
+							</div>	
+						</div><!--- END OUR TEAM -->	
+					</div><!--- END COL -->
 				</div><!--- END ROW -->			
 			</div><!--- END CONTAINER -->
 		</section>
@@ -258,8 +371,8 @@
 							</div><!-- END COL  -->	
 							<div class="col-lg-8 col-sm-6 col-xs-12">
 								<div class="hire_content">
-									<h2>Want to work with us?</h2>
-									<p>Sed do eiusmod tempor incididunt ut labore Lorem ipsum dolor sit amet consectetur elit.</p>
+									<h2>Ready to strengthen your mission with technology?</h2>
+									<p>Tell us what your organization is trying to build, improve, or simplify. We would be glad to help you take the next practical step.</p>
 									<a class="btn_one" href="contact.php">Contact us</a>
 								</div>
 							</div><!-- END COL  -->		
@@ -275,7 +388,7 @@
 			<div class="container">
 				<div class="section-title text-center">
 					<h2 class="section-title-white">Get in touch.</h2>
-					<p class="section-title-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					<p class="section-title-white">Share your need, idea, or challenge. We will help you think through the right technology approach for your ministry or institution.</p>
 				</div>				
 				<div class="row">					
 					<div class="offset-lg-1 col-lg-10 col-sm-12 col-xs-12 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">

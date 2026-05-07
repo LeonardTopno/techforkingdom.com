@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Christian schools">
+  <path d="M10 28l26-13 26 13-26 13-26-13z" fill="#0f315f"/>
+  <path d="M20 36v13c7 6 25 6 32 0V36" fill="#eaf6ff" stroke="#0f315f" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M54 31v17" stroke="#ffaa17" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="54" cy="53" r="4" fill="#ffaa17"/>
+  <path d="M36 21v12M30 27h12" stroke="#41c7b9" stroke-width="3" stroke-linecap="round"/>
+</svg>

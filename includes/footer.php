@@ -68,3 +68,6 @@
 			</div><!--- END CONTAINER -->
 		</div>
 		<!-- END FOOTER -->	
+		<a class="floating_whatsapp" href="https://wa.me/919663920875" target="_blank" aria-label="Chat with TechForKingdom on WhatsApp">
+			<i class="fa fa-whatsapp"></i>
+		</a>

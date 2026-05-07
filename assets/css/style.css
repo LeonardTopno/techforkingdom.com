@@ -397,6 +397,174 @@ margin-bottom: 25px;
 	font-size: 20px;
 }
 .single_feature p{}
+.service-card-link {
+	color: inherit;
+	display: block;
+	height: 100%;
+	text-decoration: none;
+}
+.service-card-link:hover {
+	color: inherit;
+	text-decoration: none;
+}
+.service_detail_intro {
+	text-align: center;
+}
+.service_detail_icon {
+	max-width: 120px;
+	margin-bottom: 25px;
+}
+.service_detail_item {
+	min-height: 170px;
+}
+.service_detail_item .marketing_icon_img {
+	align-items: center;
+	background: #ffaa17;
+	border-radius: 50%;
+	display: flex;
+	height: 54px;
+	justify-content: center;
+	width: 54px;
+}
+.service_detail_item .marketing_icon_img i {
+	color: #fff;
+	font-size: 22px;
+}
+.service_detail_item h3 {
+	font-size: 18px;
+	line-height: 1.5;
+}
+.service_cta {
+	background: #f9fcff;
+	border-top: 1px solid #eef2f7;
+}
+.service_cta h2 {
+	color: #0f315f;
+	margin-bottom: 12px;
+}
+.service_cta p {
+	margin: 0 auto 24px;
+	max-width: 650px;
+}
+.service_cta .btn_two {
+	background: #0f315f;
+	border-radius: 30px;
+	color: #fff;
+	display: inline-block;
+	font-weight: 600;
+	margin-left: 10px;
+	padding: 14px 32px;
+}
+.service_cta .btn_two:hover {
+	background: #ffaa17;
+	color: #fff;
+}
+.team_area .single-team img[src*="/icon/"] {
+	height: 82px;
+	margin: 35px auto 20px;
+	object-fit: contain;
+	width: 82px;
+}
+.team_area .single-team p {
+	padding: 0 18px 25px;
+}
+.vision_mission_area {
+	background: #f9fcff;
+	padding-top: 0;
+}
+.vision_mission_box {
+	background: #fff;
+	border: 1px solid #eef2f7;
+	border-left: 4px solid #ffaa17;
+	border-radius: 6px;
+	box-shadow: 0 10px 35px -20px rgba(0,64,128,.25);
+	height: 100%;
+	padding: 35px;
+}
+.vision_mission_box h3 {
+	color: #0f315f;
+	font-size: 24px;
+	margin-bottom: 14px;
+}
+.vision_mission_box p {
+	color: #5f6f81;
+	font-size: 17px;
+	line-height: 1.7;
+	margin-bottom: 0;
+}
+.product_area {
+	background: #fff;
+}
+.product_card {
+	background: #f9fcff;
+	border: 1px solid #eef2f7;
+	border-radius: 6px;
+	height: 100%;
+	margin-bottom: 30px;
+	padding: 42px 34px;
+	transition: 0.3s;
+}
+.product_card:hover {
+	background: #fff;
+	box-shadow: 0 40px 50px rgba(0,0,0,0.08);
+	transform: translateY(-8px);
+}
+.product_card img {
+	height: 68px;
+	margin-bottom: 24px;
+	object-fit: contain;
+	width: 68px;
+}
+.product_card h3 {
+	color: #00102f;
+	font-size: 22px;
+	line-height: 1.3;
+	margin-bottom: 15px;
+}
+.product_card p {
+	color: #5f6f81;
+	line-height: 1.7;
+	margin-bottom: 0;
+}
+.why_choose_us_area {
+	background: #f9fcff;
+}
+.why_choose_card {
+	background: #fff;
+	border: 1px solid #eef2f7;
+	border-radius: 6px;
+	height: 100%;
+	margin-bottom: 30px;
+	padding: 36px 30px;
+	text-align: center;
+	transition: 0.3s;
+}
+.why_choose_card:hover {
+	box-shadow: 0 35px 45px rgba(0,0,0,0.08);
+	transform: translateY(-8px);
+}
+.why_choose_card i {
+	align-items: center;
+	background: #0f315f;
+	border-radius: 50%;
+	color: #ffaa17;
+	display: inline-flex;
+	font-size: 26px;
+	height: 68px;
+	justify-content: center;
+	margin-bottom: 22px;
+	width: 68px;
+}
+.why_choose_card h3 {
+	color: #00102f;
+	font-size: 22px;
+	margin-bottom: 12px;
+}
+.why_choose_card p {
+	color: #5f6f81;
+	line-height: 1.7;
+	margin-bottom: 0;
+}
 .verse_content {
 	background: #f9fcff;
 	border: 1px solid #eef2f7;
@@ -442,6 +610,30 @@ margin-bottom: 25px;
 	font-weight: 500;
 }
 .single_about_content p{}
+.about_intro_points {
+	list-style: none;
+	margin: 25px auto 0;
+	max-width: 920px;
+	padding: 0;
+	text-align: left;
+}
+.about_intro_points li {
+	color: #5f6f81;
+	font-size: 17px;
+	line-height: 1.7;
+	margin-bottom: 18px;
+	padding-left: 34px;
+	position: relative;
+}
+.about_intro_points li:before {
+	color: #ffaa17;
+	content: "\f00c";
+	font-family: FontAwesome;
+	font-size: 16px;
+	left: 0;
+	position: absolute;
+	top: 3px;
+}
 
 .hire_us_area{background:#f9fcff;}
 .hire_img{}
@@ -1691,6 +1883,29 @@ color: #fff;
 text-align: center;
 text-transform: capitalize;
 } 
+.floating_whatsapp {
+	align-items: center;
+	background: #25d366;
+	border-radius: 30px;
+	box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2);
+	color: #fff;
+	display: flex;
+	font-size: 25px;
+	height: 50px;
+	justify-content: center;
+	position: fixed;
+	left: 5px;
+	bottom: 5px;
+	transition: 0.3s;
+	width: 50px;
+	z-index: 9999;
+}
+.floating_whatsapp:hover,
+.floating_whatsapp:focus {
+	background: #1ebe5d;
+	color: #fff;
+	transform: translateY(-4px);
+}
 /*
 * ----------------------------------------------------------------------------------------
 * 18.END FOOTER DESIGN

@@ -28,15 +28,15 @@
 					<li class="has-children">
 					  <a href="service.php" class="nav-link">Services</a>
 					  <ul class="dropdown">
-						<li><a href="single_service.php" class="nav-link">Email Marketing</a></li>
-						<li><a href="single_service.php" class="nav-link">Offline SEO</a></li>
-						<li><a href="single_service.php" class="nav-link">Social media marketing</a></li>
-						<li><a href="single_service.php" class="nav-link">Lead Generation</a></li>
-						<li><a href="single_service.php" class="nav-link">Web Design</a></li>
-						<li><a href="single_service.php" class="nav-link">Search Engine optimization</a></li>
+						<li><a href="website-development.php" class="nav-link">Website Development</a></li>
+						<li><a href="mobile-app-development.php" class="nav-link">Mobile App Development</a></li>
+						<li><a href="custom-software-development.php" class="nav-link">Custom Software Development</a></li>
+						<li><a href="technical-training-workshops.php" class="nav-link">Technical Training & Workshops</a></li>
+						<li><a href="it-consulting-ai-solutions.php" class="nav-link">IT Consulting & AI Solutions</a></li>
+						<li><a href="cloud-hosting-solutions.php" class="nav-link">Cloud and Hosting Solutions</a></li>
 					  </ul>
 					</li>					 
-			         <li><a class="nav-link" href="casestudy.php">Case Study</a></li>									
+			         <li><a class="nav-link" href="products.php">Products</a></li>									
 					<li class="has-children">
 					  <a href="portfolio.php" class="nav-link">Portfolio</a>
 					  <ul class="dropdown">

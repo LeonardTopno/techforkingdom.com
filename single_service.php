@@ -6,11 +6,25 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="Learn about TechForKingdom's mission-focused technology services for churches, schools, hospitals, ministries, NGOs, and Christian institutions.">
+		<meta name="keywords" content="TechForKingdom service details, Christian mission technology, church websites, ministry apps, school software, hospital software">
+		<meta name="author" content="TechForKingdom">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#0f315f">
+		<link rel="canonical" href="https://techforkingdom.com/single_service.php">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://techforkingdom.com/single_service.php">
+		<meta property="og:title" content="Service Details | TechForKingdom">
+		<meta property="og:description" content="Mission-focused technology services for Kingdom organizations.">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:site_name" content="TechForKingdom">
+		<meta property="og:locale" content="en_IN">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Service Details | TechForKingdom">
+		<meta name="twitter:description" content="Technology services for Christian missions and institutions.">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>Service Details | TechForKingdom</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -30,7 +44,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/style.css?v=10">			
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

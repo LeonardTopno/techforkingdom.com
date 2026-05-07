@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Christian startups">
+  <path d="M40 12c9 4 15 12 16 23L41 50 22 31c3-10 9-16 18-19z" fill="#eaf6ff" stroke="#0f315f" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="42" cy="27" r="5" fill="#ffaa17"/>
+  <path d="M23 43l-7 7M30 50l-7 7M37 57l-7 7" stroke="#ffaa17" stroke-width="4" stroke-linecap="round"/>
+  <path d="M32 39l-8 8" stroke="#41c7b9" stroke-width="4" stroke-linecap="round"/>
+</svg>

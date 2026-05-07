@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Mission organizations">
+  <circle cx="36" cy="36" r="24" fill="#eaf6ff" stroke="#0f315f" stroke-width="4"/>
+  <path d="M36 12c7 7 10 15 10 24s-3 17-10 24M36 12c-7 7-10 15-10 24s3 17 10 24M13 36h46" fill="none" stroke="#41c7b9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 24l11-3-3 11-8 8-8-8 8-8z" fill="#ffaa17"/>
+  <path d="M39 27l6 6" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>

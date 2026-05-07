@@ -6,11 +6,25 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="Explore TechForKingdom services including website development, mobile app development, custom software, technical training, AI consulting, cloud hosting, and support for Christian missions and institutions.">
+		<meta name="keywords" content="TechForKingdom services, Christian technology services, website development for churches, mobile app development for ministries, custom software for schools, technical training, AI consulting, cloud hosting">
+		<meta name="author" content="TechForKingdom">
+		<meta name="robots" content="index, follow">
+		<meta name="theme-color" content="#0f315f">
+		<link rel="canonical" href="https://techforkingdom.com/service.php">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://techforkingdom.com/service.php">
+		<meta property="og:title" content="Services | TechForKingdom">
+		<meta property="og:description" content="Websites, apps, custom software, training, AI consulting, and cloud support for Kingdom-focused organizations.">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:site_name" content="TechForKingdom">
+		<meta property="og:locale" content="en_IN">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:title" content="Services | TechForKingdom">
+		<meta name="twitter:description" content="Technology services for Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries.">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>Services | TechForKingdom</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -30,7 +44,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=3">			
+		<link rel="stylesheet" href="assets/css/style.css?v=10">			
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
