@@ -35,7 +35,7 @@
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">
-		<link rel="stylesheet" href="assets/css/style.css?v=10">
+		<link rel="stylesheet" href="assets/css/style.css?v=11">
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">
 	</head>
 	
