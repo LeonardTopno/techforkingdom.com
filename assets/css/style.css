@@ -1516,7 +1516,8 @@ margin-bottom: -10px;
 }
 .footer_logo {padding-top:160px;}
 .footer_logo img{
-width:150px;
+width:220px;
+max-width:100%;
 }
 .footer_logo p {
 	color: #a9b4c7;
@@ -1833,4 +1834,3 @@ position: relative;
 * 21.END SERVICE PAGES DESIGN
 * ----------------------------------------------------------------------------------------
 */
-

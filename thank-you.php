@@ -68,7 +68,7 @@
 					<div class="hero-text">
 						<h1>Thank you for your e-mail.</h1>
 						<h3>We Will contact you very soon.</h3>
-						<a class="back-home" href="index.html">Back To Home</a>
+						<a class="back-home" href="index.php">Back To Home</a>
 					</div>
 				</div>
 			</div>
