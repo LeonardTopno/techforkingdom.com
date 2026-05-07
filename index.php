@@ -16,13 +16,13 @@
 		<meta property="og:url" content="https://techforkingdom.com/">
 		<meta property="og:title" content="TechForKingdom | Technology Solutions for Christian Missions">
 		<meta property="og:description" content="Websites, apps, software, training, AI consulting, and cloud solutions for Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries.">
-		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/hero-tech-faith.png">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:title" content="TechForKingdom | Technology Solutions for Christian Missions">
 		<meta name="twitter:description" content="Purpose-driven websites, apps, software, training, and cloud support for Kingdom-focused organizations.">
-		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/hero-mission-team.png">
 		<!-- SITE TITLE -->
 		<title>TechForKingdom | Technology Solutions for Christian Missions</title>			
 		<!-- Latest Bootstrap min CSS -->
@@ -67,7 +67,8 @@
 		<?php include 'includes/navigation.php'; ?>
 
 <!-- START HOME -->
-		<section data-stellar-background-ratio="0.3" id="home" class="home_bg" style="background-image: url(assets/img/bg/home-bg.jpg);  background-size:cover; background-position: center center;">
+		<!--hero-mission-team.png-->
+		<section data-stellar-background-ratio="0.3" id="home" class="home_bg" style="background-image: url(assets/img/bg/hero-tech-faith.png);  background-size:cover; background-position: center center;">
 			<div class="container">
 				<div class="row">
 				  <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
