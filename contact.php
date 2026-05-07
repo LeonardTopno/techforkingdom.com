@@ -89,28 +89,20 @@
 		<section class="address_area section-padding">
 			<div class="container">
 				<div class="row">
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
+				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
 					<div class="single_address">
-						<h4>New York</h4>
-						<p class="mr_20">133rd Ave Jamaica, <br /> New York(NY)</p>
-						<p><a href="tel:415 256 365">+415 256 365</a></p>
-						<p><a href="mailto:">admin@monoline.com</a></p>
+						<h4>Bengaluru, India</h4>
+						<p class="mr_20">Nadagowda Gollahalli<br />Bengaluru - 560 077</p>
+						<p><a href="tel:+919663920875">+91-9663920875</a></p>
+						<p><a href="mailto:info@techforkingdom.com">info@techforkingdom.com</a></p>
 					</div>
 				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
+				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
 					<div class="single_address">
-						<h4>Los Angeles</h4>
-						<p class="mr_20">E 49th St Los Angeles, <br /> California(CA), 90011</p>
-						<p><a href="tel:415 256 365">+415 256 365</a></p>
-						<p><a href="mailto:">support@monoline.com</a></p>
-					</div>
-				  </div><!--- END COL -->
-				  <div class="col-lg-4 col-sm-4 col-xs-12 text-center">
-					<div class="single_address">
-						<h4>San Francisco</h4>
-						<p class="mr_20">61 Rudden Ave San <br />Francisco, California</p>
-						<p><a href="tel:415 256 365">+415 256 365</a></p>
-						<p><a href="mailto:">info@monoline.com</a></p>
+						<h4>Ranchi, India</h4>
+						<p class="mr_20">Kokar, Ranchi<br />Jharkhand 834 001</p>
+						<p><a href="tel:+919663920875">+91-9663920875</a></p>
+						<p><a href="mailto:info@techforkingdom.com">info@techforkingdom.com</a></p>
 					</div>
 				  </div><!--- END COL -->				  
 				</div><!--- END ROW -->

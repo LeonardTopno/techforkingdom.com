@@ -80,8 +80,8 @@
 					</div>
 
 					<div class="section-title text-center">		
-						<h2>What we do</h2>
-						<p>We help churches, ministries, schools, hospitals, and Christian organizations build impactful digital platforms through websites, mobile apps, software solutions, and technical training.</p>
+						<h2>Technology Solutions for Christian Missions</h2>
+						<p>We help churches, ministries, schools, hospitals, and Christian organizations build impactful digital tools that serve people and strengthen mission work.</p>
 					</div>
 
 					<div class="col-lg-4 col-sm-6 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
