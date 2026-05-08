@@ -44,7 +44,7 @@
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
 		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=11">			
+		<link rel="stylesheet" href="assets/css/style.css?v=13">			
 		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -91,7 +91,7 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/1.jpg" class="img-fluid" alt="" />
+								<img src="assets/img/team/leonard-topno.png" class="img-fluid" alt="Leonard Topno, Founder and CEO of TechForKingdom" />
 								<h3>Leonard Topno</h3>
 								<p>Founder and CEO <br/>
 								B.Tech IIT Guwahati</p>
@@ -106,7 +106,7 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/2.jpg" class="img-fluid" alt="" />
+								<img src="assets/img/team/amit-kandulna-professional.png" class="img-fluid" alt="Amit V. Kandulna, Head of Web Application Development at TechForKingdom" />
 								<h3>Amit V. Kandulna</h3>
 								<p>Head of Web Application development <br/>
 								 MCA, SHUATS, Prayagraj
@@ -122,7 +122,7 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/3.jpg" class="img-fluid" alt="" />
+								<img src="assets/img/team/oswin-topno-formal.png" class="img-fluid" alt="Oswin Topno, Head of Mobile Application Development at TechForKingdom" />
 								<h3>Oswin Topno</h3>
 								<p>Head of Mobile Application development <br/>
 								  Kristu Jayanti University, Bengaluru 
@@ -138,7 +138,7 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/4.jpg" class="img-fluid" alt="" />
+								<img src="assets/img/team/amil-dahanga-professional.png" class="img-fluid" alt="Amil D. Dahanga, Sales and Business Development at TechForKingdom" />
 								<h3>Amil D. Dahanga</h3>
 								<p>Sales and Business Development <br/>
 								 MBA, XISS Ranchi, Jharkhand
@@ -154,7 +154,7 @@
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
 						<div class="our-team">
 							<div class="single-team">
-								<img src="assets/img/team/5.jpg" class="img-fluid" alt="" />
+								<img src="assets/img/team/anna-topno-professional.png" class="img-fluid" alt="Anna T., Head of Recruitment at TechForKingdom" />
 								<h3>Anna T.</h3>
 								<p>Head of Recruitment <br/>
 								 Mount Carmel, Bengaluru, 

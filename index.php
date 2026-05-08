@@ -22,7 +22,7 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:title" content="TechForKingdom | Technology Solutions for Christian Missions">
 		<meta name="twitter:description" content="Purpose-driven websites, apps, software, training, and cloud support for Kingdom-focused organizations.">
-		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/hero-mission-team.png">
+		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/hero-tech-faith.png">
 		<!-- SITE TITLE -->
 		<title>TechForKingdom | Technology Solutions for Christian Missions</title>			
 		<!-- Latest Bootstrap min CSS -->
@@ -67,7 +67,7 @@
 		<?php include 'includes/navigation.php'; ?>
 
 <!-- START HOME -->
-		<!--hero-mission-team.png-->
+		<!--hero-tech-faith.png-->
 		<section data-stellar-background-ratio="0.3" id="home" class="home_bg" style="background-image: url(assets/img/bg/hero-tech-faith.png);  background-size:cover; background-position: center center;">
 			<div class="container">
 				<div class="row">
