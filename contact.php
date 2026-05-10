@@ -36,6 +36,9 @@
 		<meta property="og:title" content="Contact TechForKingdom">
 		<meta property="og:description" content="Reach TechForKingdom for technology services and product support for Christian missions, churches, schools, hospitals, colleges, and NGOs.">
 		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="675">
+		<meta property="og:image:alt" content="TechForKingdom technology for Christian missions and institutions">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
@@ -62,16 +65,43 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=11">			
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">			
+		<link rel="stylesheet" href="assets/css/style.css?v=21">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
-	</head>
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "ProfessionalService",
+		  "name": "TechForKingdom",
+		  "url": "https://techforkingdom.com/contact.php",
+		  "email": "info@techforkingdom.com",
+		  "telephone": "+91-9663920875",
+		  "areaServed": ["India", "Global"],
+		  "address": [
+		    {
+		      "@type": "PostalAddress",
+		      "streetAddress": "Nadagowda Gollahalli",
+		      "addressLocality": "Bengaluru",
+		      "postalCode": "560077",
+		      "addressCountry": "IN"
+		    },
+		    {
+		      "@type": "PostalAddress",
+		      "streetAddress": "Kokar",
+		      "addressLocality": "Ranchi",
+		      "addressRegion": "Jharkhand",
+		      "postalCode": "834001",
+		      "addressCountry": "IN"
+		    }
+		  ]
+		}
+		</script>	</head>
 	
     <body data-spy="scroll" data-offset="80">
 
@@ -169,44 +199,6 @@
 		</div>
 		<!-- END CONTACT -->		
 
-		<!-- START PARTNER LOGO -->
-		<div class="partner-logo section-padding">
-			<div class="container">										
-				<div class="row text-center">
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single_logo single_logo_bm">
-							<a href="#"><img src="assets/img/partner/1.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
-						<div class="single_logo">
-							<a href="#"><img src="assets/img/partner/2.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" data-wow-offset="0">
-						<div class="single_logo single_logo_bm">
-							<a href="#"><img src="assets/img/partner/3.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" data-wow-offset="0">
-						<div class="single_logo">
-							<a href="#"><img src="assets/img/partner/4.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" data-wow-offset="0">
-						<div class="single_logo">
-							<a href="#"><img src="assets/img/partner/5.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-					<div class="col-lg-2 col-sm-4 col-xs-12 no-padding wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s" data-wow-offset="0">
-						<div class="single_logo">
-							<a href="#"><img src="assets/img/partner/6.png" alt="" class="img-fluid"/></a>
-						</div>						
-					</div><!--- END COL -->
-				</div><!--- END ROW -->
-			</div><!--- END CONTAINER -->	
-		</div>
-		<!-- END PARTNER LOGO -->
 		<?php include 'includes/footer.php'; ?>
 
 <!-- Latest jQuery -->

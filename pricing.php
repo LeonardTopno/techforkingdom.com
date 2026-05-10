@@ -7,10 +7,11 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		<meta name="description" content="Monoline - Design Agency HTML Template">
-		<meta name="keywords" content="agency, business, corporate, creative, html5, modern, multipurpose, One Page, parallax, startup ">		
+		<meta name="description" content="TechForKingdom provides websites, apps, software, training, AI consulting, and cloud support for Christian missions and institutions.">
+		<meta name="keywords" content="TechForKingdom, Christian technology services, ministry websites, church apps, Christian school software">
+		<meta name="robots" content="noindex, follow">		
 		<!-- SITE TITLE -->
-		<title>Monoline - Design Agency HTML Template</title>			
+		<title>TechForKingdom</title>			
 		<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">		
 		<!-- Google Font -->
@@ -29,9 +30,9 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=11">			
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">			
+		<link rel="stylesheet" href="assets/css/style.css?v=21">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>

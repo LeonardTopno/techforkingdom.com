@@ -17,6 +17,9 @@
 		<meta property="og:title" content="Products | TechForKingdom">
 		<meta property="og:description" content="School, hospital, church, conference, ministry, donor, and matrimonial software products for Christian organizations.">
 		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="675">
+		<meta property="og:image:alt" content="TechForKingdom technology for Christian missions and institutions">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
@@ -34,10 +37,25 @@
         <link rel="stylesheet" href="assets/css/fonts.css">
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">
-		<link rel="stylesheet" href="assets/css/style.css?v=11">
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">
-	</head>
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">
+		<link rel="stylesheet" href="assets/css/style.css?v=21">
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">
+		<script type="application/ld+json">
+		{
+		  "@context": "https://schema.org",
+		  "@type": "ItemList",
+		  "name": "TechForKingdom Products",
+		  "url": "https://techforkingdom.com/products.php",
+		  "itemListElement": [
+		    { "@type": "ListItem", "position": 1, "name": "School Management Software" },
+		    { "@type": "ListItem", "position": 2, "name": "Hospital Management Software" },
+		    { "@type": "ListItem", "position": 3, "name": "Conference Website and Registration" },
+		    { "@type": "ListItem", "position": 4, "name": "Church Management Software" },
+		    { "@type": "ListItem", "position": 5, "name": "Church Register on Cloud" },
+		    { "@type": "ListItem", "position": 6, "name": "Christian Matrimonial Website and App" }
+		  ]
+		}
+		</script>	</head>
 	
     <body data-spy="scroll" data-offset="80">
 

@@ -36,7 +36,13 @@
 						<li><a href="cloud-hosting-solutions.php" class="nav-link">Cloud and Hosting Solutions</a></li>
 					  </ul>
 					</li>					 
-			         <li><a class="nav-link" href="products.php">Products</a></li>												
+			         <li><a class="nav-link" href="products.php">Products</a></li>
+					<li class="has-children">
+					  <a href="#" class="nav-link">More</a>
+					  <ul class="dropdown">
+						<li><a href="blog.php" class="nav-link">Blogs</a></li>
+					  </ul>
+					</li>
 			         <li><a class="nav-link" href="contact.php">Contact</a></li>					
 				  </ul>
 				</nav>

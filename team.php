@@ -17,6 +17,9 @@
 		<meta property="og:title" content="Team Members | TechForKingdom">
 		<meta property="og:description" content="Meet the mission-focused technology team behind TechForKingdom.">
 		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="675">
+		<meta property="og:image:alt" content="TechForKingdom technology for Christian missions and institutions">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
@@ -43,9 +46,9 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=13">			
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">			
+		<link rel="stylesheet" href="assets/css/style.css?v=21">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>

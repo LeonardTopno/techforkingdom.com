@@ -103,6 +103,9 @@ $serviceDescription = $service['title'] . ' for Christian missions, churches, sc
 		<meta property="og:title" content="<?php echo htmlspecialchars($service['title']); ?> | TechForKingdom">
 		<meta property="og:description" content="<?php echo htmlspecialchars($serviceDescription); ?>">
 		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="675">
+		<meta property="og:image:alt" content="<?php echo htmlspecialchars($service['title']); ?> by TechForKingdom">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
@@ -110,6 +113,29 @@ $serviceDescription = $service['title'] . ' for Christian missions, churches, sc
 		<meta name="twitter:description" content="<?php echo htmlspecialchars($serviceDescription); ?>">
 		<meta name="twitter:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
 		<title><?php echo htmlspecialchars($service['title']); ?> | TechForKingdom</title>
+		<script type="application/ld+json">
+		<?php
+		echo json_encode([
+			'@context' => 'https://schema.org',
+			'@type' => 'Service',
+			'name' => $service['title'],
+			'description' => $serviceDescription,
+			'url' => $serviceUrl,
+			'provider' => [
+				'@type' => 'Organization',
+				'name' => 'TechForKingdom',
+				'url' => 'https://techforkingdom.com/',
+				'email' => 'info@techforkingdom.com',
+				'telephone' => '+91-9663920875',
+			],
+			'areaServed' => ['India', 'Global'],
+			'audience' => [
+				'@type' => 'Audience',
+				'audienceType' => 'Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries',
+			],
+		], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+		?>
+		</script>
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600">
@@ -120,9 +146,9 @@ $serviceDescription = $service['title'] . ' for Christian missions, churches, sc
 		<link rel="stylesheet" href="assets/css/fonts.css">
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">
-		<link rel="stylesheet" href="assets/css/style.css?v=4">
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">
+		<link rel="stylesheet" href="assets/css/style.css?v=21">
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">
 	</head>
 
     <body data-spy="scroll" data-offset="80">

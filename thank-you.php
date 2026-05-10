@@ -1,8 +1,10 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
 <head>
+	<meta name="robots" content="noindex, follow">
+	<meta name="description" content="Thank you for contacting TechForKingdom.">
 	<meta charset="UTF-8">
-	<title>Your Mail Has Been Send Successfully.</title>
+	<title>Thank You | TechForKingdom</title>
 			<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">	
 	<style>

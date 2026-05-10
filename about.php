@@ -17,6 +17,9 @@
 		<meta property="og:title" content="About TechForKingdom">
 		<meta property="og:description" content="A Christian technology initiative serving ministries, churches, schools, hospitals, NGOs, and mission organizations.">
 		<meta property="og:image" content="https://techforkingdom.com/assets/img/bg/home-bg.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="675">
+		<meta property="og:image:alt" content="TechForKingdom technology for Christian missions and institutions">
 		<meta property="og:site_name" content="TechForKingdom">
 		<meta property="og:locale" content="en_IN">
 		<meta name="twitter:card" content="summary_large_image">
@@ -43,9 +46,9 @@
 		<!-- MAGNIFIC CSS -->
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">					
 		<!-- Style CSS -->						
-		<link rel="stylesheet" href="assets/css/menu.css?v=4">			
-		<link rel="stylesheet" href="assets/css/style.css?v=11">			
-		<link rel="stylesheet" href="assets/css/responsive.css?v=4">			
+		<link rel="stylesheet" href="assets/css/menu.css?v=5">			
+		<link rel="stylesheet" href="assets/css/style.css?v=21">			
+		<link rel="stylesheet" href="assets/css/responsive.css?v=8">			
 		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -88,7 +91,7 @@
 						<div class="single_about_content">
 							<h2>Technology that serves <br /> the Kingdom.</h2>
 							<ul class="about_intro_points">
-								<li>TechForKingdom is a Christian technology initiative dedicated to serving ministries, churches, educational institutions, hospitals, NGOs, and mission organizations through modern digital solutions.</li>
+								<li>TechForKingdom is a Christian technology initiative (owned and run by a group of young christian believers) dedicated to serving ministries, churches, educational institutions, hospitals, NGOs, and mission organizations through modern digital solutions.</li>
 								<li>We believe technology can be a powerful tool for outreach, administration, education, discipleship, communication, and social impact.</li>
 								<li>Our mission is to bridge the gap between faith and technology by providing professional, affordable, and purpose-driven technology services to Kingdom-focused organizations.</li>
 							</ul>
