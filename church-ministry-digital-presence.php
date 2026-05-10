@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="Why Every Church and Mission Organization Needs Robust Digital Tools, from websites and online communication to prayer requests, events, giving, and outreach.">
 		<meta name="keywords" content="church website, ministry digital presence, Christian ministry technology, church communication, digital ministry, TechForKingdom">
 		<meta name="author" content="Leonard TOPNO">

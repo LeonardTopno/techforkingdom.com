@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="Products from TechForKingdom for Christian schools, hospitals, churches, conferences, ministries, and mission organizations.">
 		<meta name="keywords" content="school management software, hospital management software, church management software, church register on cloud, conference registration website, Christian matrimonial website, Christian matrimonial app, donor management, ministry CRM">
 		<meta name="author" content="TechForKingdom">

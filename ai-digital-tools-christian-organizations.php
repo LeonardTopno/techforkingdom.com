@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="How Christian organizations can use AI and digital tools wisely for administration, communication, training, security awareness, and ministry work.">
 		<meta name="keywords" content="AI for Christian organizations, digital tools for ministry, responsible AI, ministry technology training, cybersecurity awareness, TechForKingdom">
 		<meta name="author" content="Leonard TOPNO">

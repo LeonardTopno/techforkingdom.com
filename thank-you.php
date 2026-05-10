@@ -4,6 +4,7 @@
 	<meta name="robots" content="noindex, follow">
 	<meta name="description" content="Thank you for contacting TechForKingdom.">
 	<meta charset="UTF-8">
+	<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 	<title>Thank You | TechForKingdom</title>
 			<!-- Latest Bootstrap min CSS -->
 		<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">	

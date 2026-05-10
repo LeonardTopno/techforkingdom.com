@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="TechForKingdom provides websites, mobile apps, custom software, technical training, AI consulting, and cloud hosting for Christian missions, churches, schools, hospitals, colleges, NGOs, and ministries.">
 		<meta name="keywords" content="TechForKingdom, Christian technology services, church website development, school management software, hospital management software, ministry app development, Christian mission technology, technical training, AI consulting, cloud hosting for ministries">
 		<meta name="author" content="TechForKingdom">

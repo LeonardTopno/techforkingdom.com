@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<meta name="description" content="TechForKingdom provides websites, apps, software, training, AI consulting, and cloud support for Christian missions and institutions.">
 		<meta name="keywords" content="TechForKingdom, Christian technology services, ministry websites, church apps, Christian school software">

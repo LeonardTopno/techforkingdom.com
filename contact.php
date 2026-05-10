@@ -25,6 +25,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="Contact TechForKingdom for websites, apps, software, training, AI consulting, cloud hosting, and digital support for Christian missions and institutions in India and beyond.">
 		<meta name="keywords" content="contact TechForKingdom, Christian technology services India, ministry technology support, church website development, school software, hospital software, Bengaluru, Ranchi">
 		<meta name="author" content="TechForKingdom">

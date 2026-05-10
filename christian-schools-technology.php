@@ -6,6 +6,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="How Christian schools can use websites, admission forms, parent communication tools, learning support, and digital systems to serve students and parents better.">
 		<meta name="keywords" content="Christian school website, school technology, parent communication app, admission forms, school management software, TechForKingdom">
 		<meta name="author" content="Leonard TOPNO">

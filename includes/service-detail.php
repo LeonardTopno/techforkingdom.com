@@ -92,6 +92,7 @@ $serviceDescription = $service['title'] . ' for Christian missions, churches, sc
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 		<meta name="description" content="<?php echo htmlspecialchars($serviceDescription); ?>">
 		<meta name="keywords" content="TechForKingdom, Christian missions technology, <?php echo htmlspecialchars($service['title']); ?>, church technology, school technology, ministry software">
 		<meta name="author" content="TechForKingdom">
