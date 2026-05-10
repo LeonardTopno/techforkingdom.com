@@ -431,7 +431,7 @@
 										<img src="assets/img/testimonial/dr-ranjana-minz.png" alt="Dr. Ranjana Walker Minz" />
 									</div>
 									<p>TechForKingdom supported our conference website, online registration, online fee collection using payment gateway, and technical needs during conferences. They also provided practical technical training for staff members, which was very helpful.</p>
-									<h4>Dr. Ranjana Minz</h4>
+									<h4>Dr. Ranjana Walker Minz</h4>
 									<h5>HOD, Dept. of Immunopathology, PGI Chandigarh</h5>
 								</div>
 							</div><!-- END COL  -->								
