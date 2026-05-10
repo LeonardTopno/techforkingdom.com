@@ -201,7 +201,7 @@
 						<div class="impact_card">
 							<img src="assets/img/icon/counter-1.png" alt="Organizations served" />
 							<h3>Organizations Served</h3>
-							<p>Churches, schools, hospitals, NGOs, mission teams, and Christian institutions.</p>
+							<p>Churches, schools, hospitals, NGOs, educational trusts, mission teams, Christian institutions and startups.</p>
 						</div>							
 					</div>
 					<div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
