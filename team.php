@@ -112,7 +112,7 @@
 							<div class="single-team">
 								<img src="assets/img/team/amit-kandulna-professional.png" class="img-fluid" alt="Amit V. Kandulna, Head of Web Application Development at TechForKingdom" />
 								<h3>Amit V. Kandulna</h3>
-								<p>Head of Web Application development <br/>
+								<p>Head of Web Application Development <br/>
 								 MCA, SHUATS, Prayagraj
 								</p>
 							</div>	
@@ -128,7 +128,7 @@
 							<div class="single-team">
 								<img src="assets/img/team/oswin-topno-formal.png" class="img-fluid" alt="Oswin Topno, Head of Mobile Application Development at TechForKingdom" />
 								<h3>Oswin Topno</h3>
-								<p>Head of Mobile Application development <br/>
+								<p>Head of Mobile Application Development <br/>
 								  Kristu Jayanti University, Bengaluru 
 								</p>
 							</div>	
@@ -160,7 +160,7 @@
 							<div class="single-team">
 								<img src="assets/img/team/anna-topno-professional.png" class="img-fluid" alt="Anna T., Head of Recruitment at TechForKingdom" />
 								<h3>Anna T.</h3>
-								<p>Head of Recruitment <br/>
+								<p>Chief Content Officer (CCO)<br/>
 								 Mount Carmel, Bengaluru, 
 								</p>
 							</div>	
