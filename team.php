@@ -76,7 +76,7 @@
 				<div class="row">
 				  <div class="col-lg-12 col-sm-12 col-xs-12 text-center">
 					<div class="section-top-title">
-						<h1>Team Members</h1>		
+						<h1>Core Team Members</h1>		
 					</div>
 				  </div><!--- END COL -->				  
 				</div><!--- END ROW -->
