@@ -1,48 +1,42 @@
 
 // JavaScript contact form Document
 $(document).ready(function() {
-	$('form#contact-form').submit(function() {
-	$('form#contact-form .error').remove();
-	var hasError = false;
-	$('.requiredField').each(function() {
-	if(jQuery.trim($(this).val()) == '') {
-    var labelText = $(this).prev('label').text();
-    $(this).parent().append('<span class="error">You forgot to enter your '+labelText+'</span>');
-    $(this).addClass('inputError');
-    hasError = true;
-    } else if($(this).hasClass('email')) {
-    var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-    if(!emailReg.test(jQuery.trim($(this).val()))) {
-    var labelText = $(this).prev('label').text();
-    $(this).parent().append('<span class="error">You entered an invalid '+labelText+'</span>');
-    $(this).addClass('inputError');
-    hasError = true;
-    }
-    }
-    });
-    if(!hasError) {
-    $('form#contact-form input.submit').fadeOut('normal', function() {
-    $(this).parent().append('');
-    });
+	$('form#contact-form').submit(function(event) {
+		event.preventDefault();
 
-     $("#loader").show();
-        $.ajax({
-            url: "contact.php",
-            type: "POST",
-            data:  new FormData(this),
-            contentType: false,
-            cache: false,
-            processData:false,
-            success: function(data){
-			  $('form#contact-form').slideUp("fast", function() {
-			  $(this).before('<div class="success">Thank you. Your Email was sent successfully.</div>');
-			  $("#loader").hide();
-			  })
-            }           
-       });
-	   
-	   return false;
-    }
- 
-   });
+		var $form = $(this);
+		var $button = $('#submitButton');
+		$form.find('.error, .success').remove();
+		$button.prop('disabled', true).text('Sending...');
+		$('#loader').show();
+
+		$.ajax({
+			url: 'contact.php',
+			type: 'POST',
+			data: new FormData(this),
+			contentType: false,
+			cache: false,
+			processData: false,
+			dataType: 'json',
+			success: function(data) {
+				var message = data && data.message ? data.message : 'Thank you. Your email was sent successfully.';
+				$form.slideUp('fast', function() {
+					$form.before('<div class="success">' + message + '</div>');
+				});
+			},
+			error: function(xhr) {
+				var message = 'Sorry, your email could not be sent. Please try again or email leo@techforkingdom.com directly.';
+
+				if (xhr.responseJSON && xhr.responseJSON.message) {
+					message = xhr.responseJSON.message;
+				}
+
+				$form.prepend('<div class="error">' + message + '</div>');
+			},
+			complete: function() {
+				$('#loader').hide();
+				$button.prop('disabled', false).text('Send Message');
+			}
+		});
+	});
 });

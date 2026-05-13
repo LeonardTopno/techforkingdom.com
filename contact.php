@@ -1,21 +1,61 @@
 <?php
-	if (isset($_POST["submit"])) {
-		$name = $_POST['name'];
-		$email = $_POST['email'];
-		$message = $_POST['message'];
-		$from = 'Orange Contact Form'; 
-		$to = 'sekram07@gmail.com'; 
-		$subject = $_POST['subject']; 
-		
-		$body = "From: $name\n E-Mail: $email\n Subject: $subject\n Message:\n $message";
-	
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+	$isAjax = !empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest';
+	$to = 'leo@techforkingdom.com';
+	$name = trim($_POST['name'] ?? '');
+	$email = trim($_POST['email'] ?? '');
+	$subject = trim($_POST['subject'] ?? '');
+	$message = trim($_POST['message'] ?? '');
+	$safeName = trim(str_replace(["\r", "\n", '<', '>'], '', $name));
+	$safeEmail = str_replace(["\r", "\n"], '', $email);
 
-	mail($to, $subject, $body, $from) or die("Error!");
+	if ($name === '' || $email === '' || $subject === '' || $message === '' || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+		if ($isAjax) {
+			http_response_code(422);
+			header('Content-Type: application/json');
+			echo json_encode(['success' => false, 'message' => 'Please complete the form with a valid email address.']);
+			exit;
+		}
 
-	header("location: thank-you.php");
-	
+		header('Location: contact.php?status=invalid#contact');
+		exit;
 	}
-	
+
+	$emailSubject = 'TechForKingdom Contact Form: ' . preg_replace('/[\r\n]+/', ' ', $subject);
+	$body = "New message from the TechForKingdom contact form:\n\n";
+	$body .= "Name: {$name}\n";
+	$body .= "Email: {$email}\n";
+	$body .= "Subject: {$subject}\n\n";
+	$body .= "Message:\n{$message}\n";
+
+	$headers = [
+		'From: TechForKingdom <no-reply@techforkingdom.com>',
+		'Reply-To: ' . $safeName . ' <' . $safeEmail . '>',
+		'Content-Type: text/plain; charset=UTF-8',
+		'X-Mailer: PHP/' . phpversion(),
+	];
+
+	$sent = mail($to, $emailSubject, $body, implode("\r\n", $headers));
+
+	if ($isAjax) {
+		header('Content-Type: application/json');
+		if ($sent) {
+			echo json_encode(['success' => true, 'message' => 'Thank you. Your email was sent successfully.']);
+		} else {
+			http_response_code(500);
+			echo json_encode(['success' => false, 'message' => 'Sorry, your email could not be sent. Please try again or email leo@techforkingdom.com directly.']);
+		}
+		exit;
+	}
+
+	if ($sent) {
+		header('Location: thank-you.php');
+		exit;
+	}
+
+	header('Location: contact.php?status=error#contact');
+	exit;
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -169,11 +209,16 @@
 			<div class="container">
 				<div class="section-title text-center">
 					<h2 class="section-title-white">Get in touch.</h2>
-					<p class="section-title-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+					<p class="section-title-white"></p>
 				</div>				
 				<div class="row">					
 					<div class="offset-lg-1 col-lg-10 col-sm-12 col-xs-12 text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" data-wow-offset="0">
 						<div class="contact">
+							<?php if (isset($_GET['status']) && $_GET['status'] === 'invalid') : ?>
+								<div class="error">Please complete the form with a valid email address.</div>
+							<?php elseif (isset($_GET['status']) && $_GET['status'] === 'error') : ?>
+								<div class="error">Sorry, your email could not be sent. Please try again or email leo@techforkingdom.com directly.</div>
+							<?php endif; ?>
 							<form id="contact-form" method="post" action="contact.php" enctype="multipart/form-data">
 								<div class="row">
 									<div class="form-group col-md-6">
