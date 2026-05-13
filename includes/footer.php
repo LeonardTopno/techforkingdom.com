@@ -43,7 +43,7 @@
 								<li><i class="fa fa-map-marker"></i> Ranchi, India</li>
 								<li><a href="tel:+919663920875"><i class="fa fa-phone"></i> +91-9663920875</a></li>
 								<li><a href="https://wa.me/919663920875" target="_blank"><i class="fa fa-whatsapp"></i> WhatsApp Us</a></li>
-								<li><a href="mailto:info@techforkingdom.com"><i class="fa fa-envelope"></i> info@techforkingdom.com</a></li>
+								<li><a href="mailto:leo@techforkingdom.com"><i class="fa fa-envelope"></i> leo@techforkingdom.com</a></li>
 							</ul>
 							<a class="footer_contact_btn" href="contact.php">Start a Conversation</a>
 						</div>

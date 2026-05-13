@@ -67,7 +67,7 @@
 		      "alternateName": "Technology for Kingdom",
 		      "url": "https://techforkingdom.com/",
 		      "logo": "https://techforkingdom.com/assets/img/logo.svg?v=2",
-		      "email": "info@techforkingdom.com",
+		      "email": "leo@techforkingdom.com",
 		      "telephone": "+91-9663920875",
 		      "address": {
 		        "@type": "PostalAddress",

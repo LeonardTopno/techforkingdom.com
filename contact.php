@@ -81,7 +81,7 @@
 		  "@type": "ProfessionalService",
 		  "name": "TechForKingdom",
 		  "url": "https://techforkingdom.com/contact.php",
-		  "email": "info@techforkingdom.com",
+		  "email": "leo@techforkingdom.com",
 		  "telephone": "+91-9663920875",
 		  "areaServed": ["India", "Global"],
 		  "address": [
@@ -139,7 +139,7 @@
 						<h4>Bengaluru, India</h4>
 						<p class="mr_20">Nadagowda Gollahalli<br />Bengaluru - 560 077</p>
 						<p><a href="tel:+919663920875">+91-9663920875</a></p>
-						<p><a href="mailto:info@techforkingdom.com">info@techforkingdom.com</a></p>
+						<p><a href="mailto:leo@techforkingdom.com">leo@techforkingdom.com</a></p>
 					</div>
 				  </div><!--- END COL -->
 				  <div class="col-lg-6 col-sm-6 col-xs-12 text-center">
@@ -147,7 +147,7 @@
 						<h4>Ranchi, India</h4>
 						<p class="mr_20">Kokar, Ranchi<br />Jharkhand 834 001</p>
 						<p><a href="tel:+919663920875">+91-9663920875</a></p>
-						<p><a href="mailto:info@techforkingdom.com">info@techforkingdom.com</a></p>
+						<p><a href="mailto:leo@techforkingdom.com">leo@techforkingdom.com</a></p>
 					</div>
 				  </div><!--- END COL -->				  
 				</div><!--- END ROW -->

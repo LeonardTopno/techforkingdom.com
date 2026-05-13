@@ -126,7 +126,7 @@ $serviceDescription = $service['title'] . ' for Christian missions, churches, sc
 				'@type' => 'Organization',
 				'name' => 'TechForKingdom',
 				'url' => 'https://techforkingdom.com/',
-				'email' => 'info@techforkingdom.com',
+				'email' => 'leo@techforkingdom.com',
 				'telephone' => '+91-9663920875',
 			],
 			'areaServed' => ['India', 'Global'],
